@@ -1,0 +1,11 @@
+.home{
+    background-color: #585450;
+    padding: 20px;
+}
+
+@media screen and (max-width: 540px){
+    .table{
+        font-size: 2.2vw;
+        padding: 10px;
+    }
+}
