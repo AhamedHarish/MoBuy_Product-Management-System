@@ -24,7 +24,7 @@ const Footer = () => {
             <AiOutlineLinkedin className='social in'/>
             </a>
            </div>
-           <p class="text-center pt-3" >© 2024 Copyright: Ahahmed Harish Othman</p>
+           <p className="text-center pt-3" >© 2024 Copyright: Ahahmed Harish Othman</p>
         </div>
     </div>
     </> 

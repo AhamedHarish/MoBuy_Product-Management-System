@@ -56,7 +56,7 @@ const Home = () => {
                   </thead>
                   <tbody>
                     {productList.map((p, num) => (
-                      <tr>
+                      <tr key={num}>
                         <td>{num + 1}</td>
                         <td>{p.productName}</td>
                         <td>{p.description}</td>
